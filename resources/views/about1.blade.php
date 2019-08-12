@@ -11,6 +11,8 @@
 <body>
     <h1>hello</h1>
     <h2>hello</h2>
+
+    <h2>いまfeature/testブランチで作業しています。</h2>
 </body>
 
 </html>
