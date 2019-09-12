@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel</title>
+    <title>Stareli</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -16,7 +16,9 @@
 </head>
 
 <body>
+
     <div id="wrapper">
+
         <p class="btn-gnavi">
             <span></span>
             <span></span>
@@ -32,13 +34,17 @@
             </ul>
         </nav>
         <div class="contents">
+
             <section id="section01">
-                <p>Sta/reli
+
+                <p>Stareli
                 </p>
                 <a>買いたくなると、会いたくなる。</a>
             </section>
         </div>
     </div>
+
+
     <!-- <script src="js/jquery-3.3.1.min.js"></script>
         <script src="js/index.js"></script> -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
